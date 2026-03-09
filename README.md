@@ -1,4 +1,4 @@
-VIEW SITE HERE AT https://ushaapldg.github.io/GDES2342-Project1/
+VIEW SITE AT https://ushaapldg.github.io/GDES2342-Project1/
 
 This website was a project for Interaction Design (GDES2342), which prompted me to redesign a website for an already existing business. I chose Bordertown Coffee, a closeby and beloved fraternity house turned cafe. 
 
